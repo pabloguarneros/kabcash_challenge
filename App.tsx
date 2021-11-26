@@ -12,7 +12,7 @@ export default function App() {
   } else {
     return (
       <SafeAreaProvider>
-        <IssueLoan />
+          <IssueLoan />
       </SafeAreaProvider>
     );
   }
